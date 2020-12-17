@@ -1,2 +1,2 @@
-# ddup-rest
+# spring-boot-mybatis-mysql
 A simple restful api
